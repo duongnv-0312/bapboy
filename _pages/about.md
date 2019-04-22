@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Mediumish Template for Jekyll
+title: About bapboy
 permalink: /about
 comments: true
 ---
