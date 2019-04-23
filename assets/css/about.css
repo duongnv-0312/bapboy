@@ -1,0 +1,39 @@
+.profile-name .name {
+  text-transform: uppercase;
+  font-size: 17px;
+  font-weight: bold;
+}
+.profile-name .job {
+  font-size: 13px;
+  color: #777777;
+}
+ul.profile-information {
+  list-style: none;
+  margin: 8px 0px 8px 15px;
+  padding-left: 0;
+}
+.profile-image {
+  margin-top: -18px;
+  -webkit-clip-path: polygon(0 9%, 100% 0, 100% 94%, 0% 100%);
+  clip-path: polygon(0 9%, 100% 0, 100% 94%, 0% 100%);
+}
+
+ul.profile-information li:first-child {
+  padding-bottom: 10px;
+  padding-left: 30px;
+  position: relative;
+}
+ul.profile-information li{
+  font-size: 13px;
+  font-weight: bold;
+}
+
+ul.profile-information li p {
+  color: #7F7F7F;
+}
+ul.profile-information li span {
+  color: #000;
+}
+a.reference-link {
+  color: red;
+}
