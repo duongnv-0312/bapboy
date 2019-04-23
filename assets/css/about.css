@@ -37,3 +37,17 @@ ul.profile-information li span {
 a.reference-link {
   color: red;
 }
+table.exp-title {
+  width: 100%;
+  display: block;
+  font-size: 13px;
+}
+table.exp-title tr {
+  border-bottom: solid 1px;
+}
+table.exp-title tr td:first-child {
+  width: 350px;
+}
+table.exp-title tr td:last-child {
+  font-style: italic;
+}
