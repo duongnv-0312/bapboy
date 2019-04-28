@@ -2,8 +2,8 @@
 name: "Bapboy"
 title: "Bapboy blog"
 description: "Tomorrow will be different today"
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/logo.png'
+logo: 'assets/images/con-de-4.png'
+favicon: 'assets/images/con-de-4.png'
 baseurl: /bapboy
 google_analytics: 'UA-46278016-1'
 disqus: 'demowebsite'

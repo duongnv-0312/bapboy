@@ -51,3 +51,6 @@ table.exp-title tr td:first-child {
 table.exp-title tr td:last-child {
   font-style: italic;
 }
+footer {
+  border-top: 1px;
+}
