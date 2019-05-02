@@ -22,7 +22,7 @@ comments: false
       <ul class="profile-information">
           <li></li>
           <li><p><i class="fas fa-paw"></i> <span>Name:</span> Ngo Van Duong</p></li>
-          <li><p><i class="fas fa-paw"></i> <span>DOB:</span> July 9th, 1992 </p></li>
+          <li><p><i class="fas fa-paw"></i> <span>DOB:</span> July 9th </p></li>
           <li><p><i class="fas fa-paw"></i> <span>Job:</span> Web Developer</p></li>
           <li><p><i class="fas fa-paw"></i> <span>Email:</span> duongnv.dhbk@gmail.com</p></li>
           <li><p><i class="fas fa-paw"></i> <span>Skype:</span> bapboy18</p></li>
@@ -55,8 +55,8 @@ comments: false
   <div class="introduction">
     <h2 id="introduction">INTRODUCTION</h2>
     <p>
-      I am Duong - 27 years old. <br>
-      I have 3 years experience in web development with Ruby on Rails. <br>
+      I am Duong. <br>
+      I have over 3 years experience in web development with Ruby on Rails. <br>
       I'm always looking for new challenges and knowledge, and responsible for what I do.
     </p>
   </div>
@@ -77,7 +77,7 @@ comments: false
       <ul class="practical-experience">
         <li>Developer in team which has 7 Backend devs</li>
         <li>Dev CRUD functions, service evaluates person, set time</li>
-        <li>service import, export CSV</li>
+        <li>Service import, export CSV</li>
         <li>Refactor logic code and query SQL</li>
       </ul>
     </div>
@@ -92,29 +92,75 @@ comments: false
     <div class="">
       <h5>CUSTOMER FEEDBACK ANALYSIS SYSTEM</h5>
       <ul class="practical-experience">
-        <li>Developer in team has 2 Backend dev</li>
-        <li>Apply chart analysis library - Infragistics UI Controls JS</li>
-        <li>deploy server</li>
+        <li>
+          <strong>Team size</strong>: 2 Backend devs
+        </li>
+        <li>
+          <strong>Description</strong>:
+          Build a system collects and automatically analyzes customer feedback,
+          Return feelings and satisfaction levels of customers.
+        </li>
+        <li>
+          <strong>Responsibility</strong>:
+          <ul>
+            <li>Create API import that collects feedback from customers </li>
+            <li>Build sheets data online can automatically analytical and pivot data, <br>
+                Convert from data to multiple types of charts
+            </li>
+            <li>Deploy server</li>
+          </ul>
+        </li>
       </ul>
     </div>
     <div class="">
       <h5>COMICS SYSTEM</h5>
       <ul class="practical-experience">
-        <li>Developer in team has total upto 30 dev(12 Backend devs)</li>
-        <li>Work with database has 170 tables, optimize SQL query, Unit test RSpec</li>
-        <li>Work with services of GA, AMA</li>
-        <li>Review codes, DRY, train members, have experiences in reading server log.</li>
+        <li>
+          <strong>Team size</strong>: total upto 30 devs (12 Backend devs)
+        </li>
+        <li>
+          <strong>Times</strong>: over 1 years
+        </li>
+        <li>
+          <strong>Description</strong>:
+          Develop and maintain the released comics system <br>
+          Which has about 170 tables, 2 millions users.
+        </li>
+        <li>
+          <strong>Responsibility</strong>:
+          <ul class="responsibility">
+            <li>Optimize SQL query, Unit test RSpec</li>
+            <li>Work with services of GA, AMA</li>
+            <li>Create API, and webview for web and mobile platform</li>
+            <li>Review codes, DRY, train new members, have experiences in reading server log.</li>
+          </ul>
+        </li>
       </ul>
     </div>
     <div class="">
-      <h5>PRODUCT ABOUT SCHOOL SYSTEM</h5>
+      <h5>PRODUCT ABOUT SCHOOLS SYSTEM</h5>
       <ul class="practical-experience">
-        <li>Developer in team has total 10 dev (4 Backend devs)</li>
-        <li>Disscuss and contruct about services</li>
-        <li>Hardcore logic, change relationships of multiple big tables</li>
-        <li>Review codes, DRY, optimize SQL, RSpec</li>
-        <li>Using Rails Grape API and Firebase as web service</li>
-        <li>Comunicate with foreign teamate about spec</li>
+        <li>
+          <strong>Team size</strong>: total 11 devs ( 4 Backend devs)
+        </li>
+        <li>
+          <strong>Times</strong>: about 7 months
+        </li>
+        <li>
+          <strong>Description</strong>: <br>
+          Create a system education for multiple Highschools,<br>
+          providing educational management and development auto services
+        </li>
+        <li>
+          <strong>Responsibility</strong>:
+          <ul class="responsibility">
+            <li>Disscuss and contruct about services</li>
+            <li>Hardcore logic, change relationships of multiple big tables</li>
+            <li>Review codes, DRY, optimize SQL, RSpec</li>
+            <li>Using Rails Grape API and Firebase as web service</li>
+            <li>Comunicate with foreign teamate about user story, spec</li>
+          </ul>
+        </li>
       </ul>
     </div>
   </div>
@@ -141,9 +187,6 @@ comments: false
         <li>
           English: basic communication <br>
         </li>
-        <li>
-          Japanese: learned Japanese
-        </li>
       </ul>
     </li>
     <li>
@@ -162,8 +205,7 @@ comments: false
   <div class="education">
     <h2 id="education">EDUCATION</h2>
     September 2010 - June 2016 Hanoi University Of Science And Technology<br>
-    Major: IT<br>
-    GPA: 2.2/4<br>
+    Major: IT and Japanese<br>
   </div>
 </div>
 </div>
