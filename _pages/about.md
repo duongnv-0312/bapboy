@@ -96,6 +96,9 @@ comments: false
           <strong>Team size</strong>: 2 Backend devs
         </li>
         <li>
+          <strong>Duration</strong>: about 1 year
+        </li>
+        <li>
           <strong>Description</strong>:
           Build a system collects and automatically analyzes customer feedback,
           Return feelings and satisfaction levels of customers.
@@ -119,7 +122,7 @@ comments: false
           <strong>Team size</strong>: total upto 30 devs (12 Backend devs)
         </li>
         <li>
-          <strong>Times</strong>: over 1 years
+          <strong>Duration</strong>: over 1 year
         </li>
         <li>
           <strong>Description</strong>:
@@ -144,7 +147,7 @@ comments: false
           <strong>Team size</strong>: total 11 devs ( 4 Backend devs)
         </li>
         <li>
-          <strong>Times</strong>: about 7 months
+          <strong>Duration</strong>: about 7 months
         </li>
         <li>
           <strong>Description</strong>: <br>
